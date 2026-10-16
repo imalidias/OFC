@@ -1,0 +1,2 @@
+avg_latency,max_latency,packet_loss,total_polling_msgs,sim_time,N,Nserver,x_km,y_km
+0.00330557,2630.07,0,5265,2800,8,5,20,100

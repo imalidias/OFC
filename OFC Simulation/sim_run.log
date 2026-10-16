@@ -1,0 +1,6 @@
+10G EPON + Server A discrete-event simulation
+  N=8 Nserver=2 x=20km y=100km
+  Dserver=1500 Tpoisson=1e-06 lambda=13652 sim_time=2200s
+  tuna=tuna-v1-4-exchanges.csv
+  TUNA polling messages in CSV: 1053
+Wrote metrics_per_onu.csv and metrics_network.csv
